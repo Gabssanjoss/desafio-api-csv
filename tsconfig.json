@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    // código de saída moderno, mas compatível
+    "target": "ES2020",
+    // padrão do Node atual, combina bem com ts-node-dev
+    "module": "commonjs",
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // TypeScript mais rígido
+    "strict": true,
+    // permite fazer import express from 'express' sem dor
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}

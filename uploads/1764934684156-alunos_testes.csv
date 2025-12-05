@@ -1,0 +1,6 @@
+nome,email,cpf,data_nascimento,curso_id
+João Silva,joao@example.com,10000000019,1990-01-15,1
+Maria Santos,maria@example.com,10000000108,1985-05-20,2
+Carlos Souza,carlos@example.com,10000000280,1992-08-10,1
+Ana Costa,ana@example.com,10000000361,1999-11-25,3
+Julia Ramos,julia@example.com,10000000442,2000-03-14,2
