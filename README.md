@@ -70,7 +70,9 @@ A lógica da API foi construída para resolver o desafio, validar os dados e sal
   /routes
   /validations
   /database
-/server.ts
+  server.ts
+  app.ts
+  gerarCsv.ts
 /prisma
 /uploads
 ```
